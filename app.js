@@ -3,6 +3,6 @@ const navList = document.getElementById("nav-list");
 
 // JavaScript for Mobile Menu Toggle
 mobileMenu.addEventListener("click", () => {
-  mobileMenu.classList.toggle("active");
-  navList.classList.toggle("active");
+    mobileMenu.classList.toggle("active");
+    navList.classList.toggle("active");
 });
