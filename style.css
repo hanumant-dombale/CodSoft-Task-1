@@ -162,6 +162,16 @@ footer {
   body {
     font-size: 16px;
   }
+  
+  .introduction{
+    flex-direction: column;
+  }
+
+  .introduction img {
+  margin: 0 auto;
+  height: 250px;
+  width: 100%;
+}
 
   header h1 {
     font-size: 1.3em;
